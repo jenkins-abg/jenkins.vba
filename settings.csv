@@ -1,7 +1,7 @@
-TestSheet_Filename,C:\Users\paul.ryan.a.dedumo\Desktop\set.csv
-ParentPath,C:\Users\paul.ryan.a.dedumo\Desktop
-TestDrive,D:
-FileName,set.csv
-Tprj_Path,C:\Users\paul.ryan.a.dedumo\Desktop\test.tprj
-SWDrive,C:
-TPRJFile,test.tprj
+TestSheet_Filename,Y:\20_BS2\30_SC3\10_ALL\ABG-DTPH\03_Common\06.Jenkins\Slave3_ws\td\Åycan_data_robchk.cÅzSUT_Design_Reports_Rev2.00.xlsx
+ParentPath,Y:\20_BS2\30_SC3\10_ALL\ABG-DTPH\03_Common\06.Jenkins\Slave3_ws\td
+TestDrive,Y:
+FileName,Åycan_data_robchk.cÅzSUT_Design_Reports_Rev2.00.xlsx
+Tprj_Path,Y:\20_BS2\30_SC3\10_ALL\ABG-DTPH\03_Common\06.Jenkins\Slave3_ws\sw\G3T_TAKE_WIDE_40BASE_TARGET_0051\UnitTestProject.tprj
+SWDrive,Y:
+TPRJFile,UnitTestProject.tprj
