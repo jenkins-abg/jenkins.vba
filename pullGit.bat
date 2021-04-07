@@ -4,7 +4,7 @@
 TITLE GitHub Pull
 setlocal
 :PROMPT
-SET /P AREYOUSURE=Do you want to pushGit Repo (Y/[N])?
+SET /P AREYOUSURE=Do you want to pullGit Repo (Y/[N])?
 IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
 	CLS
 	ECHO Please wait... Internet connection.
